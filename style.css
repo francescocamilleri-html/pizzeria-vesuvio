@@ -84,7 +84,8 @@ body {
     font-size: 1.1rem;
 }
 
-.menu-section {
+.menu-section,
+.desserts-section {
     background: #f3e5d7;
     padding: 50px 0;
 }
